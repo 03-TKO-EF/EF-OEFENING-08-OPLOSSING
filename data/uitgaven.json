@@ -1,0 +1,28 @@
+{
+    "lijstUitgaven": [
+        {
+            "winkel": "ALDI",
+            "bedrag": 39.93
+        },
+        {
+            "winkel": "CARREFOUR",
+            "bedrag": 13.65
+        },
+        {
+            "winkel": "COLRUYT",
+            "bedrag": 63.25
+        },
+        {
+            "winkel": "DELHAIZE",
+            "bedrag": 28.93
+        },
+        {
+            "winkel": "DELHAIZE",
+            "bedrag": 35.0
+        },
+        {
+            "winkel": "LIDL",
+            "bedrag": 75.0
+        }
+    ]
+}
