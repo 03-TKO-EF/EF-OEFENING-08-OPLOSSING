@@ -24,7 +24,7 @@ of een bestaande boodschap wijzigen of verwijderen.
 
 De structuur van het project staat hieronder afgebeeld.
 
-``textile
+```textile
 │   main.py
 │
 ├───app
@@ -45,7 +45,7 @@ De structuur van het project staat hieronder afgebeeld.
 └───entiteit
         collectie.py
         uitgave.py
-``
+```
 
 ## Grafische gebruikersinterface
 
